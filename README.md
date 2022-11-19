@@ -24,7 +24,6 @@ During exam development, the Subject Matter Experts (SMEs) define all of the tas
 * Time allowed: 90 minutes
 * Status: Live
 
-Exam Objectives
 
 Contents
 
