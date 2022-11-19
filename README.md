@@ -13,6 +13,7 @@ Knowledge of:
 3. Python
 
 Requirements
+
 Exam C1000-154: IBM Watson Data Scientist v1
 
 Exam Objectives
