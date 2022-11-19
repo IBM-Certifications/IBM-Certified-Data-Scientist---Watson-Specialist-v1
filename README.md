@@ -12,7 +12,7 @@ Knowledge of:
 2. R
 3. Python
 
-Requirements
+Requirements:
 
 Exam C1000-154: IBM Watson Data Scientist v1
 
